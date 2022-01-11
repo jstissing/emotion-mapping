@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/plugins/e4_importer">
+        <file>icon.png</file>
+        <file>e4_importer_dialog_base.ui</file>
+    </qresource>
+</RCC>
